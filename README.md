@@ -6,7 +6,7 @@
   <li>Download and install <strong>Code::Blocks</strong>.</li>
   <li>
     Go to this link and download the ZIP file:<br>
-    <a href="https://github.com/Goblin80/glut-install" target="_blank">https://github.com/Goblin80/glut-install</a><br>
+    <a href="https://www.transmissionzero.co.uk/software/freeglut-devel/" target="_blank">https://github.com/Goblin80/glut-install</a><br>
     OR use the official FreeGLUT download:<br>
     <a href="http://freeglut.sourceforge.net/index.php" target="_blank">freeglut.sourceforge.net</a><br>
     Extract the zip file after downloading.
