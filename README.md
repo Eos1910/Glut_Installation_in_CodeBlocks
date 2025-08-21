@@ -48,7 +48,7 @@
   </li>
 </ol>
 
-<h3>📥 Code::Blocks & MinGW Setup Resources</h3>
+<h3>Code::Blocks & MinGW Setup Resources</h3>
 <ul>
   <li><a href="https://www.codeblocks.org/downloads" target="_blank">Code::Blocks Download</a></li>
   <li><a href="https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/" target="_blank">CodeWithC GLUT Setup Guide</a></li>
@@ -56,7 +56,7 @@
   <li><a href="https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html" target="_blank">UCI MinGW Guide</a></li>
 </ul>
 
-<h3>💡 Notes on OpenGL Libraries</h3>
+<h3>Notes on OpenGL Libraries</h3>
 <p>You’ll need the following libraries and headers for OpenGL development:</p>
 <ul>
   <li><strong>GL</strong> – core OpenGL: <code>gl.h</code>, <code>opengl32</code></li>
